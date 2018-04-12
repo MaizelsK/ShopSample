@@ -1,0 +1,15 @@
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\bin\Debug\ShopSample.exe.config
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\bin\Debug\ShopSample.exe
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\bin\Debug\ShopSample.pdb
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\obj\Debug\ShopSample.csprojResolveAssemblyReference.cache
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\obj\Debug\MainWindow.g.cs
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\obj\Debug\App.g.cs
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\obj\Debug\ShopSample_MarkupCompile.cache
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\obj\Debug\ShopSample_MarkupCompile.lref
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\obj\Debug\MainWindow.baml
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\obj\Debug\ShopSample.g.resources
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\obj\Debug\ShopSample.Properties.Resources.resources
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\obj\Debug\ShopSample.csproj.GenerateResource.Cache
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\obj\Debug\ShopSample.csproj.CoreCompileInputs.cache
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\obj\Debug\ShopSample.exe
+C:\Users\ww\Documents\Visual Studio 2017\Projects\ShopSample\ShopSample\obj\Debug\ShopSample.pdb
